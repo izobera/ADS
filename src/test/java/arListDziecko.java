@@ -27,7 +27,7 @@ public class arListDziecko {
         driver.get("http://www.edziecko.pl/edziecko/0,0.html?moduleViewName_ban.init=/tpl/ads/prod/dfpHeader-2.0.jsp&dfp_target_kw=adtest-screening-adform-v2");
         WebElement first = driver.findElement(By.xpath("//div[@id=\"001-TOPBOARD\"]//span"));
         System.out.println(first.getLocation());
-        System.out.println(first);
+        System.out.println(first);jyjjjgjggujuj
 
     }
     /*public static void main(final String[] args) {

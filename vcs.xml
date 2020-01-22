@@ -1,0 +1,45 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/izobera/izoberatest.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.com:pwardowski-fp-stock/impl.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/pwardowski-fp-stock/impl.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/itsystems-swps/www.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/itsystems-orange/front-poc.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.com" />
+          <option name="userName" value="pwardowski" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://idrozdz@gerrit.gazeta.pl/a/inp/testy/Z6critital_path/haps-panel" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gerrit.gazeta.pl" />
+          <option name="userName" value="idrozdz" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/izobera/ADSnew.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="$USER_HOME$/Desktop/orange-poc" />
+  </component>
+</application>
